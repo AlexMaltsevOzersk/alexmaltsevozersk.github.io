@@ -1,0 +1,122 @@
+body{
+	font-family: 'Arial' !important;
+	
+}
+.monitor
+{
+	width: 100%;
+  background-color: #ffffff; 
+  background-size: cover;
+
+}
+
+.header
+{
+  width: 100%;
+  height: 100%;
+  padding: 5 5 5 5;
+  background-color: #62ade0;
+}
+
+img{
+max-width: 100%;
+height: auto;
+}
+
+.header h1
+{
+  margin-top: 5px;
+  text-transform: uppercase;
+  font-size: 16pt;
+  color: white;
+  text-align: center;
+}
+.header h2
+{
+  text-transform: uppercase;
+  font-size: 26pt;
+  color: yellow;
+  text-align: center;
+}
+.header h3
+{
+  font-size: 14pt;
+  color: yellow;
+  text-align: right;
+  padding-right: 20%;
+}
+
+.form
+{
+  background-color: #1093be;
+  border-radius: 1px;
+  width: 50%;
+  margin-top: 0px !important;
+  margin-left: 0px !important;
+}
+
+.form h1
+{
+  margin: 1% 1% 1% 1%;
+  color: white;
+  font-size: 16pt;
+  text-align: center;
+  font-weight: 400 !important;
+}
+
+#p
+{
+  color: black;
+  padding: 1% 1% 1% 1%;
+  margin: 5px 4px 15px 5px;
+  width: 29%;
+  font-weight: 600 !important;
+}
+
+#s
+{
+  border-style: none;
+  background-color: yellow;
+  margin: 1% 1% 1% 1%;
+  padding: 1% 1% 1% 1%;
+  width: 35%;
+  font-weight: 600 !important;
+  color: #b82222;
+  font-size: 11pt;
+}
+
+input::-webkit-input-placeholder
+
+
+
+.footer h4 {
+font-size: 10pt;
+}
+
+.links
+{
+  font-size: 10pt;
+  margin-top: 2.5%;
+  
+}
+
+
+/*Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+
+}
+
+/*Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px:) {
+
+}
